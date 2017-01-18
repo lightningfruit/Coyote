@@ -1,0 +1,2 @@
+# Coyote
+Coyote Wordpress Theme
